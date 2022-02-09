@@ -1,5 +1,5 @@
 # CAP-Classification-CRNN
-A deep learning model based on Inception modules paired with gated recurrent units (GRU) for the classification of CAP phases (A/B). 
+A deep learning model based on Inception modules paired with gated recurrent units (GRU) for the classification of CAP phases (A/B) present in EEG signals recorded for sleep analysis.
 
 Dataset source: https://physionet.org/content/capslpdb/1.0.0/
 
